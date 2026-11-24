@@ -151,14 +151,11 @@ outputs/       Created at runtime; excluded from version control
 ## Citation
 
 ```bibtex
-@misc{zhao2026quantwmtemporallyconsistent2bit,
-  title={QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for Video World Models},
-  author={Jiaqi Zhao and Xiaobin Hu and Bo Yin and Junpeng Jiang and Miao Zhang and Shuicheng Yan},
-  year={2026},
-  eprint={2609.26425},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2609.26425}
+@article{zhao2026quantwm,
+  title={QuantWM: Temporally consistent 2-bit KV cache quantization for video world models},
+  author={Zhao, Jiaqi and Hu, Xiaobin and Yin, Bo and Jiang, Junpeng and Zhang, Miao and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2609.26425},
+  year={2026}
 }
 ```
 
