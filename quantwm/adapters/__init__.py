@@ -1,0 +1,1 @@
+"""Model-specific cache adapters."""

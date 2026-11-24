@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use QuantWM, please cite the accompanying paper."
+type: software
+title: QuantWM
+authors:
+  - family-names: Zhao
+    given-names: Jiaqi
+  - family-names: Hu
+    given-names: Xiaobin
+  - family-names: Yin
+    given-names: Bo
+  - family-names: Jiang
+    given-names: Junpeng
+  - family-names: Zhang
+    given-names: Miao
+  - family-names: Yan
+    given-names: Shuicheng
+preferred-citation:
+  type: article
+  title: "QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for Video World Models"
+  authors:
+    - family-names: Zhao
+      given-names: Jiaqi
+    - family-names: Hu
+      given-names: Xiaobin
+    - family-names: Yin
+      given-names: Bo
+    - family-names: Jiang
+      given-names: Junpeng
+    - family-names: Zhang
+      given-names: Miao
+    - family-names: Yan
+      given-names: Shuicheng
+  year: 2026
+  journal: arXiv
+  doi: 10.48550/arXiv.2609.26425
+  url: https://arxiv.org/abs/2609.26425

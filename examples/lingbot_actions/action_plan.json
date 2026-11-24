@@ -1,0 +1,26 @@
+{
+  "frame_num": 93,
+  "fps": 16.0,
+  "playback_seconds": 5.8125,
+  "requested_sequence": "turn_left:45:2,idle:2,turn_right:45:2",
+  "phases": [
+    {
+      "name": "turn_left",
+      "frames": 31,
+      "angle_degrees": -45.0,
+      "movement": null
+    },
+    {
+      "name": "idle",
+      "frames": 31,
+      "angle_degrees": 0.0,
+      "movement": null
+    },
+    {
+      "name": "turn_right",
+      "frames": 30,
+      "angle_degrees": 45.0,
+      "movement": null
+    }
+  ]
+}
